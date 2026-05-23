@@ -2,7 +2,7 @@
 
 A Next.js inventory and order-fulfillment platform for multi-warehouse retail brands, with race-condition-safe product reservations.
 
-**Live demo:** _[Add your Vercel URL here]_
+
 
 ---
 
